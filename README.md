@@ -1,4 +1,4 @@
-mhartington.github.io
+adamaparicio.github.io
 =====================
 
-Mike Hartingtons
+Adam Aparicio
